@@ -65,7 +65,7 @@
     "json5-loader": "^4.0.1",
     "lint-staged": "^11.1.2",
     "lodash": "^4.17.21",
-    "prettier": "^2.0.4",
+    "prettier": "^2.8.8",
     "prism-react-renderer": "^1.2.1",
     "prismjs": "^1.27.0",
     "prop-types": "^15.7.2",
